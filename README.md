@@ -14,7 +14,7 @@
     <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
     <a href="https://velog.io/@min0127">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
-    <h3> BootCamp InterView 
+    <h3>InterView &nbsp&nbsp👉 &nbsp&nbsp
     <a href="https://youtu.be/S4loq0SDiDM">
     <img src="https://img.shields.io/badge/-DevCamp%20InterView-White?style=flat-square&logo=youtube">
     </a></h3></br>
