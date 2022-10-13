@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
     </a></h3>
     <h3>Tech Blog &nbsp&nbsp👉 &nbsp&nbsp
-    <a href="https://velog.io/@min0127"></a></h3>
+    <a href="https://velog.io/@min0127">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
-    
+    </a></h3>
     </br>
     <h1 align="center">💻 Tech Stack 💻</h1>
     <p>
