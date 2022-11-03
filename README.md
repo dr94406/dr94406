@@ -6,9 +6,6 @@
     <h1 align="center">🌱 About ME 🌱</h1>
     <h3>👋 Hi! There!</h3>
     <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3>
-    <h3>My InterView &nbsp&nbsp👉 &nbsp&nbsp
-    <a href="https://youtu.be/S4loq0SDiDM">
-    <img src="https://img.shields.io/badge/-DevCamp%20InterView-White?style=flat-square&logo=youtube">
     </br>
     <h1>📬 How to reach me? 📬</h1>
     <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
