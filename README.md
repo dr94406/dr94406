@@ -1,4 +1,1 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=438CB5&height=300&section=header&text=MINNIT%20%20&fontSize=70&fontColor=yellowgreen">
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=dr94406&show_icons=true&theme=tokyonight"/>
